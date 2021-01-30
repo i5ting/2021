@@ -13,7 +13,7 @@
 3、TODO
 
 - [ts-junit](https://github.com/i5ting/ts-junit) 很想写，且定位清晰，具备足够多的ROI
-- 前端工具：electron + umijs构建类似于钉钉这样的脚手架把我自己的一些[最佳实践](https://github.com/i5ting/i5ting-mac-init) 整合成离线应用。对团队或开源都是有帮助的。
+- 前端工具：electron + umijs构建类似于钉钉这样的脚手架把我自己的一些[最佳实践](https://github.com/i5ting/i5ting-mac-init) 整合成离线应用。对团队或开源都是有帮助的。顺便在公司内部培养几个喜欢开源的小弟。
 
 4、待讨论
 
@@ -23,3 +23,26 @@
 - egg-react-ssr/ssr/imove维护和升级问题
 - 是否玩短视频运营
 - Node Party后续
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
+
+## 版本历史
+
+- v1.0.0 初始化版本
+
+## 欢迎fork和反馈
+
+- write by `i5ting` i5ting@126.com
+
+如有建议或意见，请在issue提问或邮件
+
+## License
+
+this repo is released under the [MIT
+License](http://www.opensource.org/licenses/MIT).
