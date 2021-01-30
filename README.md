@@ -19,3 +19,5 @@
 
 - 《狼书》后续是否更新
 - Serverless的书等等
+- 成为Node.js Collaborator
+- egg-react-ssr/ssr/imove维护和升级问题
