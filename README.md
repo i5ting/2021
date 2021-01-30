@@ -21,3 +21,4 @@
 - Serverless的书等等
 - 成为Node.js Collaborator
 - egg-react-ssr/ssr/imove维护和升级问题
+- 是否玩短视频运营
